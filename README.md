@@ -2,12 +2,6 @@
 <h3 align="center">Front-End Developer | UI/UX Enthusiast</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oumasabrin&label=Profile%20views&color=0e75b6&style=flat" alt="oumasabrin" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oumasabrin" alt="oumasabrin" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/oumaaaaaaa" target="blank"><img src="https://img.shields.io/twitter/follow/oumaaaaaaa?logo=twitter&style=for-the-badge" alt="oumaaaaaaa" /></a> </p>
-
 - 🌱 I’m currently learning **Frameworks**
 
 - 📫 How to reach me **oumaimaaloui001@gmail.com**
@@ -26,3 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oumasabrin&show_icons=true&locale=en" alt="oumasabrin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oumasabrin&" alt="oumasabrin" /></p>
+
