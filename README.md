@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oumaima Aloui!</h1>
 <h3 align="center">Software engineer </h3>
-<img align="center" alt="coding" width="1000" height ="500" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+<img align="center" alt="coding" width="1000" height ="500" src="https://i.pinimg.com/750x/37/30/39/373039f98220bbba602a9514309ba1e6.jpg">
 
 - 🌱 I’m currently learning **Frameworks**
 
